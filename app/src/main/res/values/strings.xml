@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Build it Bigger</string>
+    <string name="instruction">Press the button for a  joke</string>
+    <string name="button_text">Tell Joke</string>
+    <string name="action_settings">Settings</string>
+    <string name="ERROR">error</string>
+</resources>
